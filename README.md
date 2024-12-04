@@ -102,15 +102,12 @@ You can modify the following parameters in the script:
 
 Feel free to fork the repository and submit pull requests. Contributions are always welcome! 
 
-## 🔗 Connect with Me 🤝
+## Connect with Me 🤝
 
 Feel free to connect with me for collaborations or any questions related to full-stack development, data management, or personal finance:
 
 - **LinkedIn**: [alkeshlajurkar](https://www.linkedin.com/in/alkeshlajurkar) 
 - **Email**: alkeshlajurkar@gmail.com 
 
-💻 **GitHub Repository**: [GitHub Repo Link](https://github.com/alkeshlajurkar/LogAnalysis) 
+**GitHub Repository**: [GitHub Repo Link](https://github.com/alkeshlajurkar/LogAnalysis) 
 
----
-
-This version includes more engaging and colorful emojis for each section, making the readme both informative and visually appealing!
